@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#15181e"/>
+  <rect x="10" y="44" width="14.67" height="6" rx="1.5" fill="#ffffff"/>
+  <rect x="24.67" y="44" width="14.67" height="6" fill="#fdda24"/>
+  <rect x="39.33" y="44" width="14.67" height="6" rx="1.5" fill="#ef3340"/>
+  <text x="32" y="36" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="22" font-weight="700" fill="#ffffff">RRN</text>
+</svg>

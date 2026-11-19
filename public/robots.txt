@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lieven121.github.io/rrn-generator/sitemap.xml

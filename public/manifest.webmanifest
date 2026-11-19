@@ -1,0 +1,15 @@
+{
+  "name": "Belgian National Number Generator",
+  "short_name": "RRN Generator",
+  "description": "Generate valid Belgian national register numbers and fake test persons.",
+  "start_url": "/rrn-generator/",
+  "scope": "/rrn-generator/",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#fdda24",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
